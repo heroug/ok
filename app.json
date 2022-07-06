@@ -37,7 +37,7 @@
        "value": "latest"
      }
   },
-  "website": "",
-  "repository": "",
+  "website": "https://github.com/heroug/ok",
+  "repository": "https://github.com/heroug/ok",
   "stack": "container"
  }
